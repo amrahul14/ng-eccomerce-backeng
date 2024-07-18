@@ -1,0 +1,100 @@
+{
+    "seller": [
+        {
+            "id": "3c8e",
+            "name": "rahul",
+            "email": "rahul@gmail.com",
+            "password": "1111"
+        }
+    ],
+    "product": [
+        {
+            "name": "Dell Vostro 16 Laptop",
+            "price": "76000",
+            "category": "Laptop",
+            "color": "Black",
+            "description": "Intel® Core™ i5 processor\nWindows 11\n16 GB RAM\n512GB SSD\n40.6-cm Full HD+ display ",
+            "image": "https://i.dell.com/is/image/DellContent//content/dam/ss2/product-images/dell-client-products/notebooks/latitude-notebooks/14-3420/media-gallery/peripherals_laptop_latitude_3420nt_gallery_3.psd?fmt=pjpg&pscan=auto&scl=1&hei=402&wid=573&qlt=100,1&resMode=sharp2&size=573,402&chrss=full",
+            "id": "2084"
+        },
+        {
+            "name": "SAMSUNG Galaxy M40",
+            "price": "17299",
+            "category": "Mobile",
+            "color": "Midnight Blue",
+            "description": "6 GB RAM | 128 GB ROM\n16.0 cm Display\n32MP Rear Camera\n3500 mAh Battery",
+            "image": "https://5.imimg.com/data5/EZ/BB/SI/SELLER-92529419/samsung-galaxy-m40-midnight-blue-phone-1000x1000.jpg",
+            "id": "1"
+        },
+        {
+            "name": "Apple iPhone 14",
+            "price": "57999",
+            "category": "Mobile",
+            "color": "White",
+            "description": "128 GB ROM\n15.49 cm Super Retina XDR Display\n12MP + 12MP | 12MP Front Camera\nA15 Bionic Chip",
+            "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+            "id": "2"
+        },
+        {
+            "name": "HP Pavilion 15",
+            "price": "72490",
+            "category": "Laptop",
+            "color": "Silver",
+            "description": "Intel Core i5 16 GB RAM 1 TB SSD Windows 11 Home Thin and Light Laptop 15.6 Inch Display 1.75 Kg Weight",
+            "image": "https://m.media-amazon.com/images/I/71bf7sQ4YCL._SX679_.jpg",
+            "id": "3"
+        },
+        {
+            "name": "Nike Air Max Dn",
+            "price": "8999",
+            "category": "Shoes",
+            "color": "Black",
+            "description": "Matt accents\nFoam midsole\nRubber outsole\n Black/Dark Smoke Color ",
+            "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/1eeaacc0-e07c-4024-a5f7-57f2fd23e8a2/air-max-270-g-golf-shoe-Z6vCfs.png",
+            "id": "4"
+        },
+        {
+            "name": "Levies Jeans",
+            "price": "5999",
+            "category": "Jeans",
+            "color": "Blue",
+            "description": "Inseam Length:32\nSlim Fit Through Thigh And Hip, Tapered Leg\nZip Fly With Button Closure",
+            "image": "https://levi.in/cdn/shop/files/360870702_01_Front_f947fc25-1a0f-40a1-869c-cbc5e09be1fe.jpg?v=1707716273",
+            "id": "5"
+        },
+        {
+            "name": "Skybags Mint Trolley Bag",
+            "price": "2799",
+            "category": "Trolley Bag",
+            "color": "Turquoise",
+            "description": "Polycarbonate Scratch Resistant Shell, Hard Casing Waterproof\nCapacity: 57.6 liters Weight: 3600 grams Lock Type: Number Lock, Number of Wheels: 4, Number of compartments: 2",
+            "image": "https://m.media-amazon.com/images/I/513wVi40n7L._SY879_.jpg",
+            "id": "6"
+        },
+        {
+            "name": "Fire-Boltt Ultimate",
+            "price": "2999",
+            "category": "Smartwatch",
+            "color": "Gold",
+            "description": " 1.39\" Stainless Steel Luxury Smartwatch, Bluetooth Calling, 120+ Sports Smartwatch  (Gold Strap, Free Size) IP68 water & dust resistant ",
+            "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/smartwatch/a/r/g/-original-imagpzad46jgjdww.jpeg?q=70&crop=false",
+            "id": "7"
+        }
+    ],
+    "user": [
+        {
+            "id": "e65d",
+            "name": "Rahul",
+            "email": "rahul@gmail.com",
+            "password": "1111"
+        },
+        {
+            "id": "423c",
+            "name": "Rohit",
+            "email": "rohit@gmail.com",
+            "password": "2222"
+        }
+    ],
+    "cart": [],
+    "orders": []
+}
